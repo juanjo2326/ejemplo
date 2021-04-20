@@ -1,3 +1,5 @@
-1.entrar a clases
+1.entrar a clase de devops
 2.salir
 3.entrar a otra clase
+4.comer algo.
+5hacer tarea
